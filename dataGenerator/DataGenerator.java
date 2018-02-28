@@ -1,7 +1,6 @@
 package dataGenerator;
 import java.util.HashSet;
 import java.util.Random;
-
 import mySetImplementations.Set2;
 
 /**
